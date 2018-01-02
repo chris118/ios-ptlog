@@ -1,0 +1,2 @@
+git "http://code.putao.io/ios_client/PTLog.git" "d7ff3553882c3660c035d36bca007429d4d9126a"
+github "stephencelis/SQLite.swift" "0.11.3"
