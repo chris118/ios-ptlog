@@ -8,6 +8,3 @@
 ### 2.显示:
 * let logVC = PTLogViewController()
 * present(logVC, animated: true, completion: nil)
-
-### 3.引用:
-* git "http://code.putao.io/ios_client/PTLog.git" "master"
